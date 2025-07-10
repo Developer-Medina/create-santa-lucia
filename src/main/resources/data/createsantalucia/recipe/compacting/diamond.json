@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {"item": "createsantalucia:charcoal_block" },
+    {"type": "fluid_stack",
+      "amount": 1000,
+      "fluid": "minecraft:lava"}
+  ],
+  "results": [
+    {
+      "chance": 0.8,
+      "id": "minecraft:diamond", "count": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "createsantalucia:crystal_key" },
+    { "item": "createsantalucia:emerald_key" },
+    { "item": "createsantalucia:diamond_key" }
+  ],
+  "result": {
+    "id": "createsantalucia:master_key",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {"item": "minecraft:calcite" },
+    {"item": "createsantalucia:soul_nugget" },
+    {"type": "fluid_stack",
+      "amount": 100,
+      "fluid": "minecraft:lava"}
+  ],
+  "results": [
+    { "id": "minecraft:netherrack", "count": 1 }
+  ]
+}
