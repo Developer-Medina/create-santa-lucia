@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {"item": "minecraft:clay_ball"},
+    {"item": "minecraft:cobblestone"},
+    {"type": "fluid_stack",
+      "amount": 100,
+      "fluid": "minecraft:lava"}
+  ],
+  "results": [
+    {"id": "minecraft:cobbled_deepslate", "count":  1}
+  ]
+}

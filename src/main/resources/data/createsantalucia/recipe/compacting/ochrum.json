@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {"item": "minecraft:iron_nugget" },
+    {"item": "minecraft:calcite" },
+    {"item": "minecraft:clay_ball" },
+    {"type": "fluid_stack",
+      "amount": 100,
+      "fluid": "minecraft:water"}
+  ],
+  "results": [
+    { "id": "create:ochrum", "count": 1 }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {"item": "minecraft:calcite" },
+    {"item": "create:copper_nugget" },
+    {"type": "fluid_stack",
+      "amount": 100,
+      "fluid": "minecraft:lava"}
+  ],
+  "results": [
+    { "id": "create:veridium", "count": 1 }
+  ]
+}

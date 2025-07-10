@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {"item": "minecraft:iron_nugget"},
+    {"item": "minecraft:quartz"},
+    {"type": "fluid_stack",
+      "amount": 125,
+      "fluid": "minecraft:lava"}
+  ],
+
+  "results": [
+    {"id": "minecraft:amethyst_shard", "count":  2}
+  ]
+
+}

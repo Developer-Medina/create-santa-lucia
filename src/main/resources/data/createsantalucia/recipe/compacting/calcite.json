@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {"item": "minecraft:clay_ball"},
+    {"item": "minecraft:sand"},
+    {"item": "minecraft:bone_meal"},
+    {"type": "fluid_stack",
+      "amount": 250,
+      "fluid": "minecraft:water"}
+  ],
+
+  "results": [
+    { "id": "minecraft:calcite", "count": 1 }
+  ]
+}
