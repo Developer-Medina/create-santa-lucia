@@ -5,5 +5,8 @@
   "item.createsantalucia.master_key" : "Master key",
   "item.createsantalucia.soul_nugget" : "Soul nugget",
 
-  "block.createsantalucia.charcoal_block" : "Block of Charcoal"
+  "block.createsantalucia.charcoal_block" : "Block of Charcoal",
+
+  "creativetab.createsantalucia.create_santa_lucia_items": "Create: Santa Lucia - Items",
+  "creativetab.createsantalucia.create_santa_lucia_blocks": "Create: Santa Lucia - Blocks"
 }
