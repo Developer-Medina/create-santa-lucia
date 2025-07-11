@@ -1,0 +1,19 @@
+{
+  "item.createsantalucia.crystal_key": "Chave de Cristal",
+  "item.createsantalucia.emerald_key": "Chave de Esmeralda",
+  "item.createsantalucia.diamond_key": "Chave de Diamante",
+  "item.createsantalucia.master_key": "Chave Mestra",
+  "item.createsantalucia.soul_nugget": "Pepita de Alma",
+
+  "block.createsantalucia.charcoal_block": "Bloco de Carvão",
+
+  "creativetab.createsantalucia.create_santa_lucia_items": "Create: Santa Lucia - Itens",
+  "creativetab.createsantalucia.create_santa_lucia_blocks": "Create: Santa Lucia - Blocos",
+
+  "message.createsantalucia.nether_portal_activated": "O abismo responde ao chamado.",
+  "message.createsantalucia.nether_portal_no_frame": "A estrutura é instável... falhou.",
+  "message.createsantalucia.nether_portal_needs_key": "A obsidiana resiste à chama comum.",
+  "message.createsantalucia.obsidian_destroyed": "A rocha cede à sua vontade.",
+  "message.createsantalucia.end_portal_activated": "As estrelas se alinham. O caminho se abre.",
+  "message.createsantalucia.end_portal_no_eye": "O portal anseia por uma chave... não um olho."
+}
