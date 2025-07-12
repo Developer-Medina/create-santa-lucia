@@ -17,6 +17,7 @@ public class ModItems {
     public static final DeferredItem<Item> EMERALD_KEY = ITEMS.register("emerald_key",
             () -> new Item(new Item.Properties()));
 
+
     public static final DeferredItem<Item> DIAMOND_KEY = ITEMS.register("diamond_key",
             () -> new Item(new Item.Properties()));
 
