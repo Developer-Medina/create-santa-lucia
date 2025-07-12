@@ -11,9 +11,12 @@
   "creativetab.createsantalucia.create_santa_lucia_blocks": "Create: Santa Lucia - Blocos",
 
   "message.createsantalucia.nether_portal_activated": "O abismo responde ao chamado.",
-  "message.createsantalucia.nether_portal_no_frame": "A estrutura é instável... falhou.",
-  "message.createsantalucia.nether_portal_needs_key": "A obsidiana resiste à chama comum.",
+  "message.createsantalucia.nether_portal_no_frame": "A estrutura é instável... ela falha.",
+  "message.createsantalucia.nether_portal_needs_key": "A obsidiana resiste a uma chama comum.",
   "message.createsantalucia.obsidian_destroyed": "A rocha cede à sua vontade.",
-  "message.createsantalucia.end_portal_activated": "As estrelas se alinham. O caminho se abre.",
-  "message.createsantalucia.end_portal_no_eye": "O portal anseia por uma chave... não um olho."
+  "message.createsantalucia.end_portal_activated": "As estrelas se alinham. O caminho está aberto.",
+  "message.createsantalucia.end_portal_no_eye": "O portal anseia por uma chave... não um olho.",
+  "message.createsantalucia.no_obsidian_found": "Nenhuma obsidiana encontrada na área!",
+  "message.createsantalucia.frames_activated": "%d molduras do portal ativadas!",
+  "message.createsantalucia.end_portal_requires_key": "Você precisa da Chave Mestra para ativar este portal!"
 }
