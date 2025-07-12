@@ -17,7 +17,6 @@
   "message.createsantalucia.end_portal_activated": "The stars align. The way is open.",
   "message.createsantalucia.end_portal_no_eye": "The gateway craves a key... not an eye.",
   "message.createsantalucia.no_obsidian_found": "No obsidian found in the area!",
-  "message.createsantalucia.frames_activated": "%d frames do portal ativados!",
-  "message.createsantalucia.end_portal_requires_key": "Você precisa da Master Key para ativar este portal!"
-
+  "message.createsantalucia.frames_activated": "%d portal frames activated!",
+  "message.createsantalucia.end_portal_requires_key": "You need the Master Key to activate this portal!"
 }
